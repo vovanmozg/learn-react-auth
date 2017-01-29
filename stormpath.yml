@@ -1,0 +1,6 @@
+client:
+  apiKey:
+    id: 1DNOYR13FWK6NXQUGJC8WJ2OH
+    secret: secret from MYAPP
+application:
+  href: https://api.stormpath.com/v1/applications/MYAPP
